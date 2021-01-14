@@ -63,7 +63,7 @@ Click the button the below to show as toast (positioning with our utilities in t
   <button type="button" class="btn btn-primary" id="liveToastBtn">Show live toast</button>
 </div>
 
-{{< highlight html >}}
+```html
 <button type="button" class="btn btn-primary" id="liveToastBtn">Show live toast</button>
 
 <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 5">
@@ -79,7 +79,7 @@ Click the button the below to show as toast (positioning with our utilities in t
     </div>
   </div>
 </div>
-{{< endhighlight >}}
+```
 
 ### Translucent
 
